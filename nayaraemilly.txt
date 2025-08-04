@@ -2,6 +2,16 @@ nome: nayara
 
 sobrenome: emilly
 
+nome completo: nayara emilly de moura ferreira
+
 cpf:1234567890
 
 filme favorito: steven universo
+
+idade: 17
+
+série favorita: Rick and Morty
+
+cor favorita: azul
+
+nome da mãe: Marcela Cristina De Moura
