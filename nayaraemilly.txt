@@ -1,0 +1,7 @@
+nome: nayara 
+
+sobrenome: emilly
+
+cpf:1234567890
+
+filme favorito: steven universo
